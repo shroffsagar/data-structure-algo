@@ -1,3 +1,5 @@
+package src;
+
 import java.util.*;
 
 //https://leetcode.com/problems/two-sum/

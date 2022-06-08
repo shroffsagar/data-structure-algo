@@ -1,3 +1,5 @@
+package src;
+
 //https://leetcode.com/problems/binary-search/
 public class Binary_Search {
     public int search(int[] nums, int target) {
